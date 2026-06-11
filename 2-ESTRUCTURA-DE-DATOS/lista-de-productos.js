@@ -1,0 +1,4 @@
+let listaDeCompras = []
+export {
+    listaDeCompras,
+}
