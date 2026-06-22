@@ -23,5 +23,10 @@
 
 //--------------------------------------------------------------------------------------------
 // PRACTICA 4
-import { mostrarResultado } from "./4-ALGORITMO-DE-LOS-2-PUNTEROS/resultado.js";
-mostrarResultado();
+// import { mostrarResultado } from "./4-ALGORITMO-DE-LOS-2-PUNTEROS/resultado.js";
+// mostrarResultado();
+// --------------------------------------------------------------------------------------------
+// PRACTICA 5
+import { findLongestWord } from "./5-ALGORITMO-SLIDING-WINDOWS/word-finder.js";
+import { sentence } from "./5-ALGORITMO-SLIDING-WINDOWS/word.js";
+console.log("La palabra más larga de la oracion: ", sentence ," es: ", findLongestWord(sentence));
