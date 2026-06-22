@@ -2,7 +2,7 @@
 En este repositorio se encuentran las practicas llevadas a cabo para el modulo 4
 
 😼 Propósito 😼
-Este proyecto se llevo a cabo para desarrollar y fortalecer habilidades y conocimientos de desarrollo web haciendo uso de HTML, CSS, JavaScript, Git, GitHub y GitHub Pages.
+Este proyecto se llevo a cabo para desarrollar y fortalecer habilidades y conocimientos de desarrollo web haciendo JavaScript, NODE, Git, GitHub y GitHub Pages.
 
 😼 Clonar el repositorio 😼
 1️⃣ Ejecuta el siguiente comando:
@@ -19,8 +19,8 @@ cd Module-3-Practices
 3️⃣ Selecciona la carpeta del proyecto.
 
 Puedes abrirlo igualmente desde la terminal con el comando:
-
 code .
+
 😼 Instala Live Server en Visual Studio Code 😼
 1️⃣ Ve a la sección de extensiones (ctrl + shift + X)
 
