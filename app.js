@@ -1,7 +1,4 @@
-//practica 6
-import {gifts} from "./6-RECURSION-Y-BACKTRACKING/gifts.js";
-import {searchGift} from "./6-RECURSION-Y-BACKTRACKING/git-searcher.js";
-searchGift(gifts, "play 5");
-searchGift(gifts, "play 6");
-searchGift(gifts, "Molcajete");
-searchGift(gifts, "Reloj Rolex");
+//practica 7 divide y venceras 
+import { findMaximum } from "./7-DIVIDE-Y-VENCERAS/array-max-value.js";
+import { numbers } from "./7-DIVIDE-Y-VENCERAS/numbers.js";
+console.log(findMaximum(numbers)); 
