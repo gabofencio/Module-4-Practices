@@ -20,3 +20,8 @@
 // agregarProducto("Aguacate");
 // eliminarProducto("Tortillas de Maiz");
 // mostrarLista();
+
+//--------------------------------------------------------------------------------------------
+// PRACTICA 4
+import { mostrarResultado } from "./4-ALGORITMO-DE-LOS-2-PUNTEROS/resultado.js";
+mostrarResultado();
